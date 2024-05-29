@@ -1,0 +1,31 @@
+Property ID,City,County,Property Type,Listing Price,Bedrooms,Bathrooms,Square Feet,Listing Date,Days on Market,Sold Price,Sold Date
+1,Los Angeles,Los Angeles,Single Family,950000,3,2.0,1800,2024-01-10,30,940000,2024-02-09
+2,San Francisco,San Francisco,Condo,1200000,2,2.0,1200,2024-01-15,45,1180000,2024-02-29
+3,San Diego,San Diego,Single Family,850000,4,3.0,2100,2024-02-01,20,845000,2024-02-21
+4,Sacramento,Sacramento,Townhouse,600000,3,2.5,1700,2024-01-20,35,595000,2024-02-24
+5,San Jose,Santa Clara,Single Family,1300000,5,4.0,3000,2024-01-25,25,1290000,2024-02-19
+6,Fresno,Fresno,Single Family,400000,3,2.0,1500,2024-02-10,40,395000,2024-03-21
+7,Long Beach,Los Angeles,Condo,700000,2,2.0,1100,2024-01-18,50,690000,2024-03-08
+8,Oakland,Alameda,Single Family,800000,3,2.0,1600,2024-01-30,28,790000,2024-02-27
+9,Bakersfield,Kern,Single Family,350000,3,2.0,1400,2024-02-05,32,345000,2024-03-08
+10,Riverside,Riverside,Townhouse,500000,3,2.5,1600,2024-01-28,22,495000,2024-02-19
+11,Santa Monica,Los Angeles,Condo,900000,2,2.0,1300,2024-02-10,25,895000,2024-03-06
+12,Palo Alto,Santa Clara,Single Family,2200000,4,3.5,2800,2024-02-15,15,2190000,2024-03-01
+13,Irvine,Orange,Townhouse,750000,3,2.5,1800,2024-01-22,30,740000,2024-02-21
+14,Anaheim,Orange,Single Family,680000,3,2.0,1700,2024-02-01,35,670000,2024-03-07
+15,Berkeley,Alameda,Condo,950000,2,2.0,1200,2024-02-05,20,945000,2024-02-25
+16,Pasadena,Los Angeles,Single Family,1100000,3,2.5,2000,2024-01-27,18,1090000,2024-02-14
+17,Malibu,Los Angeles,Single Family,3500000,5,5.0,4000,2024-02-12,40,3480000,2024-03-23
+18,Santa Barbara,Santa Barbara,Single Family,2000000,4,3.5,3200,2024-02-08,32,1980000,2024-03-11
+19,Glendale,Los Angeles,Condo,800000,2,2.0,1100,2024-02-03,45,790000,2024-03-19
+20,Modesto,Stanislaus,Single Family,450000,3,2.0,1500,2024-01-30,38,440000,2024-03-08
+21,Stockton,San Joaquin,Single Family,370000,3,2.0,1400,2024-02-06,28,365000,2024-03-05
+22,Fremont,Alameda,Townhouse,850000,3,2.5,1900,2024-01-25,30,845000,2024-02-24
+23,Huntington Beach,Orange,Single Family,1250000,4,3.0,2500,2024-02-10,35,1240000,2024-03-16
+24,Santa Cruz,Santa Cruz,Condo,950000,2,2.0,1300,2024-01-15,45,940000,2024-02-29
+25,Carlsbad,San Diego,Single Family,900000,3,2.5,2000,2024-01-20,32,890000,2024-02-21
+26,Napa,Napa,Single Family,1100000,3,2.5,2300,2024-02-08,22,1090000,2024-03-01
+27,Palo Alto,Santa Clara,Condo,1300000,2,2.0,1400,2024-01-18,38,1290000,2024-02-25
+28,San Mateo,San Mateo,Single Family,1500000,4,3.0,2600,2024-01-22,27,1480000,2024-02-18
+29,Daly City,San Mateo,Townhouse,850000,3,2.5,1800,2024-01-30,20,840000,2024-02-19
+30,Chico,Butte,Single Family,500000,3,2.0,1600,2024-02-05,30,490000,2024-03-06
